@@ -1,0 +1,24 @@
+@import '@fontsource/pacifico/400.css';
+@import '@fontsource/pacifico/400.css';
+@import '@fontsource/quattrocento-sans/400.css';
+@import '@fontsource/quattrocento-sans/400.css';
+@import '@fontsource/cousine/400.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: 'Quattrocento Sans', system-ui, sans-serif;
+  color: #1E1B4B;
+  background: #FAF5FF;
+}
+h1, h2, h3, h4 {
+  font-family: 'Pacifico', Georgia, serif;
+  color: #7E22CE;
+  letter-spacing: -0.01em;
+}
+a { color: #22D3EE; text-decoration: none; }
+a:hover { text-decoration: underline; }
+a.card-link { color: inherit; text-decoration: none; display: block; }
+a.card-link:hover { text-decoration: none; }
