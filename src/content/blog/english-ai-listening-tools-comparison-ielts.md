@@ -6,7 +6,7 @@ publishDate: '2026-05-22T00:00:00Z'
 modDatetime: '2026-05-22T00:00:00Z'
 slug: english-ai-listening-tools-comparison-ielts
 ogImage: 'https://img.ulec.com.cn/教育-英语AI工具/english-ai-listening-tools-comparison-ielts-2026-1880x1249.jpg'
-tags: []
+tags:
   - '英语AI工具'
   - '听力评测'
   - 'ELSA Speak'
